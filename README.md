@@ -9,7 +9,7 @@ npm i @rayyee/once-event
 ```
 
 ```javascript
-import once from 'once-event';
+import once from '@rayyee/once-event';
 
 ;(async function() {
     await once( process, 'exit' );    
