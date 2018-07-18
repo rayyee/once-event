@@ -1,0 +1,18 @@
+{
+  "name": "once-event",
+  "version": "0.1.0",
+  "description": "Transform listen once event to promise.",
+  "main": "index.js",
+  "author": "rayyee",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayyee/once-event.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
