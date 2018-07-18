@@ -5,7 +5,7 @@ Transform listen once event to promise.
 ### Usage
 
 ```
-yarn add once-event
+npm i @rayyee/once-event
 ```
 
 ```javascript

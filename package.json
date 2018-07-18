@@ -1,8 +1,8 @@
 {
-  "name": "once-event",
-  "version": "0.1.0",
+  "name": "@rayyee/once-event",
+  "version": "0.1.2",
   "description": "Transform listen once event to promise.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "author": "rayyee",
   "repository": {
     "type": "git",
